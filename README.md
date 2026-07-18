@@ -1,8 +1,4 @@
-                                                          <div align="center">
-
-# **Priyanka Manjarekar**
-
-</div>
+### Priyanka Manjarekar
 
 ### Full Stack Developer | Flutter Developer
 
